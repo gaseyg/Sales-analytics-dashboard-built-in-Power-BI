@@ -1,0 +1,17 @@
+﻿ProductID,ProductName,Category,Price
+1,Lenovo IdeaPad,Ноутбуки,45000
+2,HP Pavilion,Ноутбуки,52000
+3,ASUS VivoBook,Ноутбуки,38000
+4,Acer Aspire,Ноутбуки,41000
+5,Samsung Galaxy A54,Смартфоны,28000
+6,Xiaomi Redmi Note 12,Смартфоны,18000
+7,iPhone SE,Смартфоны,55000
+8,realme 11,Смартфоны,15000
+9,Logitech MX Keys,Периферия,8500
+10,Razer DeathAdder,Периферия,4200
+11,Sony WH-1000XM5,Периферия,22000
+12,"Philips Monitor 24""",Периферия,17000
+13,Чехол универсальный,Аксессуары,800
+14,USB-C кабель,Аксессуары,500
+15,Power Bank 20000mAh,Аксессуары,3200
+16,Веб-камера HD,Аксессуары,2800
